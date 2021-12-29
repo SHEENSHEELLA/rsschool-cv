@@ -3,7 +3,7 @@
 ## Junior Frontend Developer, Building construction engineer
 =====
 ### Contact information:
-email: sheensheella@gmail.com
+* email: sheensheella@gmail.com
 =====
 ### About myself:
 -----
