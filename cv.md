@@ -6,7 +6,7 @@
 * email: sheensheella@gmail.com
 =====
 ### About myself:
------
+-----git
 ### Skills:
 * Studying HTML5, CSS3;
 * Studying Git, GitHub;
