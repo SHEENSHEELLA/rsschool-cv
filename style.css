@@ -1,4 +1,8 @@
 h1 {
-    color: rgb(210, 21, 50);
-    font-size: 150%;
+    color: rgb(83, 67, 70);
+    font-size: 200%;
+    text-align: center;
+}
+p {
+    text-align: center;
 }
