@@ -16,7 +16,7 @@ I would like to try new challenges in life. Working in IT is a good opportunity 
 * Autodesk AutoCAD and Revit.
 
 #### Code example:
-N-th Fibonacci
+_N-th Fibonacci_
 ```
 function nthFibo(n) {
     if (n === 0) return 0;
