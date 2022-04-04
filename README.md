@@ -1,1 +1,1 @@
-https://SHEENSHEELLA.github.io/rsschool-cv/cv
+https://SHEENSHEELLA.github.io/rsschool-cv/
