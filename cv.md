@@ -25,3 +25,20 @@ function nthFibo(n) {
     return fibonacci(num);  
 }
 ```
+#### Work experience:
+- building construction engineer in a state company for 12;
+- on the way to IT. 
+
+#### Education:
+* Building technician, Minsk State Architectural and Construction College;
+* Civil engineer, Bellarusian National Tecnical University.
+##### Courses and self-study:
+* JS, CSS, HTML, Git video courses on [YouTube](https://www.youtube.com/);
+* [JavaScript](https://learn.javascript.ru);
+* [FreeCodeCamp](https://www.freecodecamp.org);
+* [RS school](https://rs.school/).
+
+#### Languages:
+- Russian;
+- Belarussian;
+- English (level - B1).
